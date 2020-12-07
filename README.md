@@ -18,11 +18,11 @@ This is a Python console application that is the restaurantis menu it's include 
 Clone this repository to your local machine.
 
 ```
-$ git clone [repo clone url here]
+$ git clone : https://github.com/neba9/snakes-cafe.git
 ```
 
 ### To run the program from VS Code:
-Select ```File``` -> ```Open``` -> ```Project/Solution```
+Select ```snakes_cafe File``` -> ```Open``` -> ```Project/Solution```
 
 Next navigate to the location you cloned the Repository.
 
@@ -53,4 +53,4 @@ Then select and open ```snakes_cafe.py```
 ###### collaborate with Karlo and Alexander
 
 ------------------------------
-For more information on Markdown: https://www.markdownguide.org/cheat-sheet
+For more information on Markdown: https://github.com/neba9/snakes-cafe/blob/master/README.md
